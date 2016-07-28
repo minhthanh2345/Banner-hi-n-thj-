@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://youcare.vn/' target='_blank'><img src='http://media.bizwebmedia.net/sites/139302/upload/Logo/201672185939117.jpg?v=175' width='500px'/>SỨC KHỎE, SẮC ĐẸP youcare.vn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://3.bp.blogspot.com/-diKdvFvwsDg/V5nyXlHBNgI/AAAAAAAAABw/1Z4FcjeCwnANcZY5Qzxd5JzaJg1vMS5AQCLcB/s320/%25E1%25BA%25A3nh%2Bb%25E1%25BA%25B9%2Bb%25C3%25A8.jpg?v=175' width='500px'/>NGƯỜI YÊU CÓ THỂ QUÊN ĐI< NHƯNG BẠN THÂN THÌ KO THỂ NÀO. LIÊN HỆ AD 0933 966 627 MR.TRỌNG. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
