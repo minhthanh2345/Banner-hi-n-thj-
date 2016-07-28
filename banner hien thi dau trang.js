@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a https://4.bp.blogspot.com/-sZZOcrsmi_o/V5HroBeiBAI/AAAAAAAAAPA/wrKlNrde3oc7V-omatYVEzTwwt25EbIVQCLcB/s320/logo%2Bmy%2Bpham%2Bhan%2Bquoc.jpg?v=175' width='500px'/>MỸ PHẨM HÀN QUỐC. LIÊN HỆ 0988424921. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a https://3.bp.blogspot.com/-diKdvFvwsDg/V5nyXlHBNgI/AAAAAAAAABw/1Z4FcjeCwnANcZY5Qzxd5JzaJg1vMS5AQCLcB/s320/%25E1%25BA%25A3nh%2Bb%25E1%25BA%25B9%2Bb%25C3%25A8.jpg?v=175' width='500px'/>NGƯỜI YÊU CÓ THỂ QUÊN ĐI NHƯNG BẠN THÂN THÌ KO THỂ> LIÊN HỆ 0933 9666 27 MR.TRỌNG. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
